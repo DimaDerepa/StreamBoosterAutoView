@@ -1,0 +1,16 @@
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\StreamBooster.exe
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\StreamBooster.deps.json
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\StreamBooster.runtimeconfig.json
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\StreamBooster.runtimeconfig.dev.json
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\StreamBooster.dll
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\StreamBooster.pdb
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dimad\source\repos\twitch\StreamBooster\bin\Release\netcoreapp3.1\WebDriver.dll
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.csprojAssemblyReference.cache
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.AssemblyInfoInputs.cache
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.AssemblyInfo.cs
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.csproj.CoreCompileInputs.cache
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.csproj.CopyComplete
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.dll
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.pdb
+C:\Users\dimad\source\repos\twitch\StreamBooster\obj\Release\netcoreapp3.1\StreamBooster.genruntimeconfig.cache
